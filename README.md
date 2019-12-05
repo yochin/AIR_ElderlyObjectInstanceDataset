@@ -31,4 +31,4 @@
 * [담당자](yochin@etri.re.kr)에게 메일을 보내 요청
 
 ## Acknowledgements
->> This dataset is supported by the ICT R&D program of MSIP/IITP. [2017-0-00162, Development of Human-care Robot Technology for Aging Society]
+> This dataset is supported by the ICT R&D program of MSIP/IITP. [2017-0-00162, Development of Human-care Robot Technology for Aging Society]
