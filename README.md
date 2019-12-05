@@ -26,12 +26,6 @@
 
 ### 디렉토리 구조
 * PASCAL VOC 데이터셋의 구조를 따름
-    .    
-    ├── Annotations
-    ├── ImageSets
-    ├── Images
-    ├── Utils
-    └── README.md
 
 ## 다운로드 방법
 * [담당자](yochin@etri.re.kr)에게 메일을 보내 요청
