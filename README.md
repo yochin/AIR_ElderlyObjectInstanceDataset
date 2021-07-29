@@ -23,7 +23,8 @@
 * [x] 3) 집안에 여러 물체를 두고 원거리 촬영, 122장
 * [x] 4) 집안에 여러 물체를 두고 근거리 촬영, 800장
 * [x] 5) 공개 데이터셋에 20종의 물체 이미지 추출 및 추가 태깅, 1,808장
-![Example of cases](image/cases.png) 
+![Example1](image/registration.png) 
+![Example2](image/test.png) 
 
 ### 데이터 형식 (1, 2, 3 유형에 한해)
 * [x] color 1920x1080 pixels
