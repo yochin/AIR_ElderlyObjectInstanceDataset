@@ -1,5 +1,5 @@
 # AIR Project Elderly Object Instance Dataset
-> 본 데이터셋은 [AIR과제](https://ai4robot.github.io/)의 일환으로 수집됨.
+> 본 데이터셋은 [AIR과제](https://ai4robot.github.io/)의 일환으로 수집함.
 > 고령자들이 자주 잃어버리고 찾는 물건들을 주 대상으로 함.
 > 물체 검출 및 인스턴스 인식 기술의 학습 및 평가를 위한 것임.
 
