@@ -19,10 +19,9 @@
 ### 수집 유형 및 규모
 * [x] 손에 들고 돌려가며 촬영, 물체당 약500장
 * [x] 테이블에 두고 주위를 돌아가며 촬영, 물체당 약500장
-* [x] 집안에 여러 물체를 두고 촬영
+* [x] 공개 데이터셋에 15종의 물체 이미지 추출 및 추가 태깅 (16,268장)
+* [x] 집안에 여러 물체를 두고 촬영, 489장
 ![Example of cases](image/cases.png) 
-![Example of cases](image/cases.png)
-![Example of cases](image/cases.png)
 
 ### 데이터 형식
 * [x] color 1920x1080 pixels
